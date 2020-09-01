@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Data Analyst!
 - 🔭 I’m currently working with [Saama Technologies][saamasite]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning about Machine Learning and its applications. 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to surf and mix music
 
