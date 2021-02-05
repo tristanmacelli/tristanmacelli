@@ -1,9 +1,9 @@
-### Hi there, I'm Tristan - aka [Tristan6][website] 👋
+### Hi there, I'm Tristan - aka [tristanmacelli][website] 👋
 
 ## I'm a Developer, and Data Analyst!
 - 🔭 I’m currently working with [Saama Technologies][saamasite]!
 - 🌱 I’m currently learning about Machine Learning and its applications. 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to surf and mix music
 
 ### Connect with me:
@@ -31,7 +31,7 @@
 
 ---
 
-<img align="left" alt="Tristan6's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tristan6&show_icons=true&hide_border=true" />
+<img align="left" alt="tristanmacelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tristanmacelli&show_icons=true&hide_border=true" />
 
 [website]: https://www.tristanmacelli.com
 [linkedin]: https://linkedin.com/in/tristan-macelli
