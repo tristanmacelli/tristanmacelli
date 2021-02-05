@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with [Saama Technologies][saamasite]!
 - 🌱 I’m currently learning about Machine Learning and its applications. 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to surf and mix music
+- ⚡ Fun fact: I love to surf, exercise, and mix music
 
 ### Connect with me:
 
