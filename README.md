@@ -1,6 +1,6 @@
 ### Hi there, I'm Tristan - aka [tristanmacelli][website] 👋
 
-## I'm a Developer, and Data Analyst!
+## I'm a Developer, and Robotics Controls Software Engineer!
 - 🔭 I’m currently working with [Icon Technologies](https://iconbuild.com/)!
 - 🌱 I’m currently learning about Robotics and its applications in construction. 🤖
 - 🥅 2023 Goals: Advance my skills in C++, Linux, and ARM processors
