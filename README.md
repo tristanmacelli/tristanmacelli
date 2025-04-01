@@ -1,10 +1,10 @@
 ### Hi there, I'm Tristan - aka [tristanmacelli][website] 👋
 
-## I'm a Developer, and Robotics Controls Software Engineer!
-- 🔭 I work at [Icon Technologies][iconsite]!
-- 🌱 I’m currently learning about Robotics and its applications in construction. 🤖
-- 🥅 2023 Goals: Advance my skills in C++, Linux, and ARM processors
-- ⚡ Fun fact: I love to swim, lift weights, and dj for my friends!
+## I'm a Full Stack Software Engineer!
+- 🔭 I work at [Taurex Drill Bits][taurexsite]!
+- 🌱 I’m currently learning about Edge Computing and its applications in drill bit engineering. 🤖
+- 🥅 2025 Goals: Advance my skills in C#, SQL, and Azure Cloud Services
+- ⚡ Fun fact: I love to run, lift weights, and DJ for my friends!
 
 ### Connect with me:
 
@@ -35,4 +35,4 @@
 
 [website]: https://www.tristanmacelli.com
 [linkedin]: https://linkedin.com/in/tristan-macelli
-[iconsite]: https://iconbuild.com/
+[taurexsite]: https://taurexbits.com/
